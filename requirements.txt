@@ -1,0 +1,3 @@
+# No third-party runtime packages required.
+# PyInstaller is needed only to build the Windows EXE:
+# python -m pip install pyinstaller
